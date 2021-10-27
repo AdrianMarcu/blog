@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Adi personal
+.idea
+includes/config.inc.php
